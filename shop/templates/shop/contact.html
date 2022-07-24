@@ -1,0 +1,33 @@
+{% extends 'shop/basic.html' %}
+{% block css %}
+    .form-group{
+<!--        width:60%;-->
+}
+{% endblock %}
+{% block body %}
+<div class="container col-md-5">
+    {{ contact }}
+    <h3 class="my-3">Contact Us</h3>
+    <form action="" method="post">{% csrf_token %}
+  <div class="form-group my-3">
+    <label for="name">Name</label>
+    <input type="text" class="form-control" id="name" name="name" placeholder="Enter your name">
+  </div>
+  <div class="form-group my-3">
+    <label for="email">Email</label>
+    <input type="email" class="form-control" id="email" name="email"placeholder="Enter your email">
+  </div>
+  <div class="form-group my-3">
+    <label for="phone">Phone</label>
+    <input type="tel" class="form-control" id="phone" name="phone" placeholder="name@example.com">
+  </div>
+
+  <div class="form-group my-3">
+    <label for="Query">Example textarea</label>
+    <textarea class="form-control" id="Query" name="Query" rows="3"></textarea>
+  </div>
+        <button type="submit" class="btn btn-success">Success</button>
+
+</form>
+    </div>
+{% endblock %}

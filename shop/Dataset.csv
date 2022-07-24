@@ -1,0 +1,501 @@
+NAME ,AGE ,TIME OF ORDER,DAY,CLASS
+sharma ,45,9,1,1
+kumar ,32,10,3,1
+khan ,34,11,5,0
+yadav ,56,12,2,1
+gupta ,26,13,6,1
+joshi ,24,14,7,0
+agarwal ,37,15,4,1
+kumar ,23,17,1,0
+sharma ,26,18,5,1
+yadav ,38,20,6,0
+acharya ,25,21,1,1
+khatri ,32,22,2,0
+ahuja ,37,23,3,1
+anand,57,8,4,1
+patel ,48,10,5,1
+reddy,69,12,6,0
+arya ,73,14,7,1
+banerjee ,29,16,1,0
+balkrishna ,38,18,3,1
+burman ,29,20,5,0
+bhatt ,20,22,7,1
+basu ,18,1,2,0
+bedi ,30,7,3,1
+verma ,36,9,4,1
+choudhary ,38,11,5,1
+chabra ,42,13,6,0
+chadhha ,41,15,7,0
+alhuwalia ,48,17,1,1
+dutta ,19,19,2,1
+deol,23,21,4,0
+deshpande,25,23,6,1
+kohli ,28,8,1,1
+mangal ,31,9,4,0
+malhotra,35,10,5,1
+jha,37,11,7,0
+joshi ,30,12,3,1
+kapadia,41,13,6,1
+iyer ,42,14,7,0
+jain ,47,15,1,1
+khanna,43,16,2,1
+grover ,49,17,4,0
+kaur ,51,18,6,1
+kashyap ,70,19,5,1
+gokhale,89,20,3,1
+ghosh ,17,21,7,0
+garg,29,22,2,1
+gandhi ,25,23,3,1
+ganguly ,26,8,4,1
+gupta ,37,9,5,1
+das,41,10,7,0
+chopra,26,11,1,0
+dhawan ,38,12,2,1
+dixit ,36,12,4,1
+dubey ,34,13,3,1
+kapoor,30,14,2,1
+khurana ,42,15,4,0
+kulkarni ,48,15,5,1
+madan,51,16,7,1
+bajwa ,62,17,1,1
+chouhan ,35,17,2,0
+deshmukh,21,18,4,1
+shekhawat ,22,19,5,0
+singh ,25,20,3,1
+dhillon ,26,21,7,0
+goswami ,29,22,1,1
+goyal,30,23,4,1
+malik ,32,24,3,0
+mahajan,37,8,7,1
+mani ,42,10,1,1
+gill,21,12,5,0
+biswas ,23,1,6,0
+batra,36,11,2,1
+mehta ,48,14,7,1
+mukherjee,74,12,3,0
+saxena,24,11,5,1
+shah,27,10,6,1
+rao ,29,8,7,1
+rai ,80,9,1,1
+purohit ,31,20,2,1
+parekh ,38,21,3,1
+thakur,25,22,4,0
+pandey,48,17,5,1
+naidu ,20,15,6,0
+modi ,31,18,7,1
+abbas ,21,21,1,0
+ahmed,41,20,2,0
+akhtar ,51,18,4,0
+amir,23,20,5,0
+bilal,27,21,3,0
+doud ,32,9,6,0
+ibrahim,36,10,7,0
+ghaffari,38,22,1,0
+haidar ,34,12,3,0
+hakim,52,11,4,1
+hashim ,41,10,5,1
+hasan ,48,9,6,1
+minhas ,47,8,2,1
+mirza,37,18,1,0
+mohiuddin,39,17,7,0
+mohammad ,31,16,2,0
+mustufa ,20,20,4,0
+omar ,32,21,6,1
+qadir ,26,22,3,0
+qasim,28,23,5,1
+rafiq,39,17,7,1
+rehman ,41,15,2,1
+rahim,23,12,4,0
+salaam,28,14,5,0
+salman ,51,12,3,0
+sayed ,39,13,6,1
+shakir ,36,8,7,1
+yousuf ,31,9,1,0
+bohra,20,10,2,0
+arora,33,13,4,0
+ahuja ,55,12,3,1
+babbar,41,14,5,1
+dahiya,16,17,4,1
+dandiwal ,18,18,6,0
+deol,19,19,5,1
+bansal ,20,21,1,1
+bhati ,24,22,7,1
+sandhu,31,20,3,1
+shergill,27,21,2,0
+babbar,29,22,4,0
+bajaj ,34,10,5,1
+basra,33,9,7,1
+bedi ,22,8,6,1
+batra,20,7,1,1
+bhalla ,29,12,2,0
+basin,34,13,7,0
+bhatia ,36,14,6,1
+bhatti,38,16,5,1
+bindra,90,15,1,0
+chawla ,100,17,3,1
+dosanjh ,103,19,4,0
+duggal ,91,17,6,0
+ghambir ,78,18,5,1
+gulati ,76,20,7,0
+juneja ,58,21,3,1
+kakkar ,53,20,2,0
+kaushal ,24,22,5,0
+khanna,28,23,4,1
+khurana ,31,21,7,1
+kohli ,42,19,1,0
+malhotra,32,15,2,0
+mehra,17,16,7,1
+malik ,19,17,1,0
+mehta ,20,20,3,1
+nanda,19,23,5,0
+narang ,20,21,4,1
+narula,38,9,2,0
+puri ,47,17,4,0
+sagar,56,16,3,1
+sahni ,65,10,5,1
+sawhney,55,11,6,0
+sehgal ,74,13,7,0
+singh ,28,14,7,0
+sodhi ,19,16,1,0
+soni ,20,17,2,1
+sood,38,15,3,1
+tandon ,46,18,7,1
+taneja,31,19,1,1
+thapar,44,20,4,0
+alberto ,33,21,6,0
+alfanso ,28,22,6,0
+dcruz,13,21,2,0
+dsouza,25,20,2,0
+fernandes,28,19,3,1
+gomez,43,10,3,1
+mariam ,38,8,4,1
+martin,31,7,4,1
+pinto ,19,19,5,0
+quadroz,27,9,7,1
+varghese,34,20,7,1
+xavier,33,14,4,0
+randhawa,66,13,4,1
+sandhu ,41,11,6,0
+mann ,45,20,7,0
+cheema,24,21,1,0
+roy,37,22,2,0
+bakshi ,61,23,4,1
+anthony,66,24,5,1
+acharya ,33,21,3,1
+khatri ,20,22,4,1
+ahuja ,39,20,6,0
+anand,46,14,4,1
+patel ,72,13,2,1
+reddy,19,15,7,1
+bakshi ,28,16,1,1
+babu ,22,17,3,1
+arya ,27,8,4,1
+banerjee ,37,9,5,1
+burman ,36,10,6,1
+balkrishnan,32,11,7,1
+bhatt,37,21,4,0
+basu ,46,22,5,0
+bedi ,55,23,3,0
+varma,21,14,1,1
+dara,26,13,7,1
+dala,24,11,1,1
+chowdhary,32,10,6,1
+chabra ,36,9,4,1
+chadhha ,38,8,5,1
+chakrabarti,41,13,3,1
+chawla ,44,12,2,1
+amin ,28,14,4,0
+apte,22,15,3,1
+alhuwalia ,33,17,5,1
+datta,31,16,7,1
+deol,80,18,2,1
+deshpandey,12,19,4,0
+dewan ,16,20,6,0
+lal,18,22,7,0
+mangal ,25,21,1,0
+malhotra,36,23,3,0
+jha,33,24,7,0
+joshi ,41,10,2,1
+kapadia,29,11,1,1
+iyer ,26,24,7,0
+jain ,31,1,6,1
+khanna,35,2,4,1
+grover ,38,7,5,1
+kaur ,74,8,1,1
+kashyap ,73,9,7,1
+gokhale ,22,10,3,1
+ghosh ,25,11,5,1
+garg,27,12,6,1
+dhar,20,13,7,1
+gandhi ,34,14,1,0
+ganguly ,42,15,2,0
+gupta ,41,11,3,1
+das,27,12,4,1
+chopra,26,13,5,0
+dhawan ,38,20,6,0
+kaithwas,39,21,7,0
+dixit ,36,22,1,0
+dubey ,44,23,2,0
+kappor,57,20,4,0
+khurana ,21,19,6,1
+kulkarni ,39,20,7,0
+chandra,23,21,2,0
+chouhan ,66,22,3,1
+deshmukh,60,21,4,1
+dayal ,64,22,5,1
+dhillon ,52,19,6,0
+goswami ,12,18,7,0
+goel,39,17,1,1
+mallick,41,16,2,1
+mahajan,33,17,3,1
+kumar ,22,16,5,1
+mani ,33,18,7,1
+gill,44,19,1,0
+mannan,55,16,2,1
+biswas ,66,17,4,1
+batra,21,20,3,0
+mehta ,31,21,5,1
+mukherjee,41,22,4,0
+saxena,51,23,6,1
+shah,61,20,7,1
+rai ,23,21,1,1
+rao ,43,22,3,1
+purohit ,53,20,4,1
+parekh ,63,16,7,1
+thakur ,19,17,1,1
+singh ,21,18,5,1
+sharma ,24,12,3,1
+shaktawat,26,13,2,1
+seth,28,14,7,1
+sachdev,32,1,1,0
+rangnathan ,36,12,2,1
+puri ,34,13,3,1
+pandey,38,14,4,1
+naidu ,32,20,6,0
+modi ,44,21,5,0
+deol,46,22,2,0
+bansal ,48,20,4,0
+bhati ,50,22,5,0
+sandhu,21,23,3,1
+shergill,23,21,7,0
+babbar,25,21,1,0
+bajaj ,27,10,4,1
+basra,29,8,6,1
+bedi ,31,9,7,1
+batra,35,20,1,0
+bhalla ,33,23,4,0
+basin,37,21,5,1
+bhatia ,39,16,4,1
+bhatti,41,17,1,1
+bindra,43,15,2,1
+chawla ,45,13,4,1
+dosanjh ,47,14,5,0
+duggal ,48,1,3,0
+ghambir ,49,12,2,1
+gulati ,50,13,4,1
+juneja ,52,14,5,0
+kakkar ,54,10,7,1
+deshpandey,59,20,1,0
+dewan ,68,21,2,0
+lal,51,22,2,1
+mangal ,33,13,3,1
+malhotra,31,14,4,0
+jha,23,15,5,0
+joshi ,24,16,6,1
+kapadia,26,17,7,1
+iyer ,34,18,1,1
+jain ,57,19,3,1
+khanna,80,20,2,0
+grover ,70,21,7,0
+kaur ,60,22,5,1
+kashyap ,50,23,4,0
+gokhale ,40,21,1,1
+ghosh ,30,22,7,1
+kulkarni ,20,20,6,0
+madan,19,2,7,1
+bajwa ,18,10,1,1
+chouhan ,17,11,4,1
+deshmukh,22,23,6,0
+shekhawat ,24,21,3,1
+singh ,23,22,2,0
+dhillon ,42,20,4,0
+goswami ,70,19,3,1
+goyal,80,18,5,1
+malik ,25,17,6,1
+mahajan,30,13,7,0
+mani ,35,14,4,0
+gill,40,12,5,1
+biswas ,45,7,3,1
+batra,50,8,2,1
+mehta ,55,9,7,1
+rathore ,60,10,1,1
+chouhan ,10,21,2,0
+medtiya ,20,22,4,0
+jhala ,25,23,5,0
+tomar,24,10,3,1
+sengar ,28,9,2,1
+parmar,32,8,1,1
+chundawat,36,17,6,1
+ranawat,40,16,7,1
+chandrawat ,44,15,3,1
+solanki ,48,14,2,1
+khushwah ,52,13,4,0
+sisodiya ,56,12,5,1
+wagehla ,60,11,3,1
+gohil ,14,10,6,0
+jadeja ,21,12,4,0
+jhala ,28,13,1,0
+panwar ,35,14,7,0
+tanwar ,42,15,3,1
+purawat ,49,16,4,1
+bhadoriya ,56,20,2,1
+naruka ,63,21,3,1
+narula,70,22,4,1
+chandel,16,23,6,0
+chawda,24,21,5,0
+songara ,32,19,7,0
+singhania,40,10,1,1
+ahuja ,48,21,6,0
+anand,56,22,7,0
+patel ,64,23,1,1
+reddy,72,13,4,0
+arya ,18,14,5,1
+banerjee ,27,15,3,1
+balkrishna ,36,13,7,1
+burman ,45,14,1,1
+bhatt ,54,17,2,0
+basu ,63,18,3,1
+bedi ,72,19,7,1
+verma ,81,20,1,1
+rangnathan ,12,17,4,1
+puri ,24,18,7,1
+pandey,26,19,6,1
+naidu ,48,21,1,0
+modi ,60,22,2,0
+deol,72,20,4,1
+bansal ,84,12,7,1
+bhati ,96,13,3,1
+sandhu,11,14,4,1
+shergill,22,19,6,0
+babbar,33,18,5,1
+bajaj ,44,17,4,1
+basra,55,16,3,1
+bedi ,66,15,2,1
+batra,77,21,7,0
+bhalla ,88,20,1,0
+basin,20,22,6,0
+kumar ,30,23,3,0
+jain ,40,21,6,1
+soni ,50,22,5,1
+agrawal ,60,23,4,1
+singh ,70,22,1,0
+chawla ,15,8,7,1
+sisodiya ,20,9,4,1
+bhalla ,25,10,3,1
+basu ,30,11,2,1
+naruka ,45,12,1,1
+narula ,35,13,6,1
+bhadoriya ,40,14,7,1
+gupta ,55,16,2,1
+parmar ,50,17,1,1
+sisodiya ,65,14,5,1
+shaktawat,60,13,4,1
+chundawat,20,20,7,0
+shekhawat ,22,21,1,0
+alberto,24,22,2,0
+fernandez,26,21,4,0
+muhammad ,28,22,6,0
+gandhi ,30,23,3,1
+khandelwal ,32,21,6,1
+sharma ,34,20,5,1
+bajwa ,36,19,4,1
+joshi ,38,18,3,1
+kapadia ,40,17,5,0
+kanur ,42,16,6,1
+kashyap ,44,17,7,1
+chouhan ,46,16,2,1
+chawla ,48,18,7,1
+rathore ,50,19,1,1
+khandelwal ,21,13,3,1
+bedi ,23,14,4,1
+verma ,25,12,6,1
+rangnathan ,27,13,7,1
+puri ,29,14,1,1
+pandey,31,12,2,1
+naidu ,33,13,3,1
+modi ,35,10,4,1
+deol,37,9,5,1
+bansal ,39,10,6,1
+bhati ,41,11,7,1
+sandhu,43,19,1,0
+shergill,45,18,3,0
+babbar,47,17,4,1
+bajaj ,49,16,7,0
+basra,21,20,1,0
+bedi ,24,21,2,0
+batra,27,22,3,1
+bhalla ,30,23,5,0
+basin,33,21,6,0
+kumar ,36,20,1,0
+jain ,39,16,2,1
+soni ,42,17,4,1
+amin ,45,18,5,1
+apte,48,19,7,0
+alhuwalia ,51,16,2,1
+datta,20,17,3,1
+deol,24,18,1,0
+deshpandey,28,10,5,1
+dewan ,32,11,3,1
+lal,36,12,4,1
+mangal ,40,11,6,1
+malhotra,42,10,1,1
+jha,46,9,3,1
+joshi ,48,8,5,1
+malhotra,52,7,7,1
+mehra,15,10,4,1
+malik ,20,21,3,0
+mehta ,25,22,4,0
+nanda,30,23,7,0
+narang ,35,24,1,0
+narula,40,1,2,1
+puri ,45,22,4,0
+sagar,50,21,5,0
+sahni ,55,23,7,0
+sawhney,60,21,1,1
+sehgal ,65,20,4,1
+singh ,12,16,7,0
+sodhi ,18,17,3,1
+soni ,24,18,5,1
+sood,30,19,2,0
+tandon ,36,16,3,0
+taneja,42,17,7,1
+alberto ,48,18,1,1
+alfanso ,53,20,4,0
+dcruz,21,21,5,0
+dsouza,28,22,6,0
+fernandes,35,21,7,1
+gomez,42,16,4,1
+mariam ,49,17,5,1
+martin,24,13,3,0
+pinto ,32,14,2,0
+quadroz,40,12,6,1
+varghese,48,13,7,0
+xavier,56,14,4,0
+randhawa,64,12,5,1
+sandhu ,18,10,1,1
+mann ,27,9,2,1
+cheema,36,11,3,1
+roy,45,20,6,0
+bakshi ,54,23,7,1
+anthony,63,21,1,0
+acharya ,72,20,3,1
+khatri ,81,16,2,1
+ahuja ,25,17,4,1
+balkrishna ,30,18,6,0
+banerjee ,32,21,5,0
+modi ,42,19,1,1
+subramaniam ,37,20,7,0
+reddy ,29,21,6,0
+taneja ,19,22,1,1
+shani ,26,23,3,1
+puri ,30,14,1,1

@@ -1,0 +1,29 @@
+{% extends "shop/basic.html" %}
+{% block css %}
+
+    .proBtn{
+      margin-top:2%;
+      width:30%;
+    }
+
+{% endblock%}
+{% block body %}
+  <div class="container my-4">
+    <div class="row">
+      <div class="col-md-4">
+        <div class="row">
+        <img src="/media/{{product.image}}" width="233px" height="233px">
+          </div>
+        <div class="row" >
+        <button class="btn btn-primary mx-5 proBtn" >Add to Cart</button>
+        <button class="btn btn-primary proBtn" >Buy now</button>
+        </div>
+      </div>
+      <div class="col-md-8">
+        <p>{{product.product_name}}</p>
+        <p>{{product.desc}}</p>
+        <p>{{product.price}}</p>
+      </div>
+    </div>
+  </div>
+{% endblock %}
