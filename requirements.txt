@@ -2,7 +2,7 @@
 
 atomicwrites==1.4.0
 backports.weakref==1.0.post1
-bkcharts==0.2
+
 black==19.10b0
 boto==2.49.0
 brotlipy==0.7.0
@@ -29,7 +29,7 @@ mccabe==0.6.1
 mpmath==1.2.1
 munkres==1.1.4
 mypy-extensions==0.4.3
-nltk==3.6.5
+
 
 pandas==1.3.4
 
