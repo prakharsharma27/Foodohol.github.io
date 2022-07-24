@@ -19,7 +19,7 @@ django-heroku==0.0.0
 djangoajax==3.2
 entrypoints==0.3
 et-xmlfile==1.1.0
-fonttools==4.25.0
+
 
 gunicorn==20.1.0
 inflection==0.5.1
@@ -40,8 +40,8 @@ pep8==1.7.1
 Pillow==8.4.0
 pkginfo==1.7.1
 ply==3.11
-pycosat==0.6.3
-pycurl==7.44.1
+
+
 
 pyls-spyder==0.4.0
 pyodbc==4.0.34
@@ -61,7 +61,6 @@ sip==6.6.2
 Sphinx==4.2.0
 sqlparse==0.4.2
 TBB==2021.6.0
-terminado==0.9.4
 
 
 
