@@ -24,7 +24,7 @@ def train(request):
         print('already trained')
     else:
         print("training")
-        dataset = pd.read_csv('/Users/v_prkhr/PycharmProjects/myAwsomeCart/mac/shop/Dataset.csv')
+        dataset = pd.read_csv('Dataset.csv')
 
         data = dataset.iloc[:, 0:-1].values
         label = dataset.iloc[:, -1].values
@@ -48,7 +48,7 @@ def train(request):
 
 def predict(lastName, dob):
     classifier = pickle.load(open('trained.sav', 'rb'))
-    dataset = pd.read_csv('/Users/v_prkhr/PycharmProjects/myAwsomeCart/mac/shop/Dataset.csv')
+    dataset = pd.read_csv('Dataset.csv')
     tempname = len(dataset) + 1
     cnt = 0;
     for item in dataset:
@@ -103,7 +103,7 @@ def index(request):
             allProd.append([prod, range(1, nSlides), nSlides])
     params = {'allProds': allProd}
     print(params)
-    return render(request, "/Users/v_prkhr/PycharmProjects/myAwsomeCart/mac/shop/templates/shop/index.html", params)
+    return render(request, "shop/index.html", params)
 
 
 def about(request):
