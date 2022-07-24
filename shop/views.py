@@ -24,7 +24,7 @@ def train(request):
         print('already trained')
     else:
         print("training")
-        dataset = pd.read_csv('Dataset.csv')
+        dataset = pd.read_csv('shop/Dataset.csv')
 
         data = dataset.iloc[:, 0:-1].values
         label = dataset.iloc[:, -1].values
@@ -48,7 +48,7 @@ def train(request):
 
 def predict(lastName, dob):
     classifier = pickle.load(open('trained.sav', 'rb'))
-    dataset = pd.read_csv('Dataset.csv')
+    dataset = pd.read_csv('shop/Dataset.csv')
     tempname = len(dataset) + 1
     cnt = 0;
     for item in dataset:
