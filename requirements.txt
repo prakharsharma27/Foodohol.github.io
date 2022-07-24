@@ -64,7 +64,7 @@ sqlparse==0.4.2
 TBB==2021.6.0
 terminado==0.9.4
 
-torch==1.11.0
+
 
 unicodecsv==0.14.1
 urllib3==1.26.7
