@@ -42,7 +42,7 @@ class Contact(models.Model):
     product_id = models.AutoField
     name = models.CharField(max_length=50)
     email = models.CharField(max_length=50, default="")
-    phone = models.IntegerField(max_length=10, default="")
+    phone = models.IntegerField()
     Query = models.CharField(max_length=100, default="")
 
     def __str__(self):
